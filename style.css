@@ -1,5 +1,5 @@
 body {
-  background-image: url("https://wallpapers-clan.com/wp-content/uploads/2024/11/chill-guy-background.jpg");
+  background-image: url("https://images.template.net/201637/free-spongebob-background-images-edit-online.jpg");
   text-align: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -31,6 +31,10 @@ html{
   object-fit: cover;
   border-radius: 30px;
   border: 15px double #8bbcbbff;
+}
+
+h1{
+  color:#365c9a;
 }
 
 h2{
